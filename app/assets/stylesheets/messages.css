@@ -20,7 +20,6 @@
   background-color: #2f3e51;
   height: calc(100vh - 100px);
   padding: 0 20px;
-  overflow: scroll;
 }
 
 .chat {
@@ -39,7 +38,6 @@
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
-  overflow: scroll;
 }
 
 .form {
